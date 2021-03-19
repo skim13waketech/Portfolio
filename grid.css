@@ -1,0 +1,39 @@
+
+
+h3 {
+  margin-top: 2rem;
+}
+
+.row .row {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+.tallrow{
+    height: 300px;
+}
+
+.padrow{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    align-items: center;
+}
+
+.aboutcol {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: lightyellow;
+  border: 0.5px solid rgba(86, 61, 124, .2);
+}
+
+.label{
+    font-family: monospace;
+}
+.field{
+    font-family: monospace;
+}
+
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}

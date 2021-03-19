@@ -1,0 +1,200 @@
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+  
+}
+
+#sticky-footer {
+  flex-shrink: none;
+  position:sticky 
+}
+
+/* Other Classes for Page Styling */
+
+.bodyy {
+  /* background-image: url(5.jpeg); */
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+ 
+}
+
+
+
+  h1{
+    color: black;
+    font-family: monospace;
+    text-align: center;
+    font-size: 45px;
+  }
+
+  h2 {
+    
+    font-family: monospace;
+    color: black;
+  }
+
+  video {
+    object-fit: cover;
+    min-height: 100%;
+    min-width: 100%;
+    position: fixed;
+  z-index: -100;
+  }
+
+
+.navbar1{
+  color: aliceblue;
+}
+
+.dark {
+  background-color: #101A3C;
+}
+
+.navv {
+  color: azure;
+}
+
+img {
+  display: block;
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2%;
+  width: 80%;
+  
+ 
+}
+
+.img3 {
+
+  width: 400px;
+  padding-left: 100px;
+  
+}
+
+.left {
+  background-color:lightyellow;
+  padding: center;
+
+}
+
+.right {
+  background-color: lightsteelblue;
+}
+.tiny{
+  padding-top: 50px;
+  width: 100%;
+ 
+  font-size: 50px;
+  color: black;
+  font-family: monospace;
+}
+
+.p1{
+  color: #7fffd4;
+}
+.p2{
+  color: plum;
+}
+
+a {
+  color: purple;
+
+}
+
+.intro{
+  color: white;
+  text-align: right;
+  font-family: monospace;
+  float: right;
+  width: 50%;
+  background-color: black;
+  opacity: 65%;
+}
+
+.About1 {
+  background-color: #f4f7f5;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-family: monospace;
+  color: black;
+
+}
+
+.Work{
+  font-size: 20px;
+  text-align: right;
+}
+
+.hh {
+  color: black;
+  font-size: 50px;
+  text-align: left;
+  padding-top: 80px;
+  padding-left: 50px;
+}
+
+.hhh{
+  color: black;
+  font-size: 50px;
+  text-align: left;
+  padding-top: 80px;
+  padding-left: 50px;
+}
+
+
+.About2 {
+  background-color: #b3b3b3;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-family: monospace;
+  color: black;
+
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.b{
+  font-size: 30px;
+  color: black;
+}
+
+h3{
+    text-align: center;
+    font-family: monospace;
+    margin-top: 2%;
+}
+.app {
+  width: 30%;
+}
+.About3{
+  background-color: white;
+    text-align: left;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-family: monospace;
+  color: black;
+}
+
+/* #containerr{
+  height: 300px;
+  width: 500px;
+  background-color:rgb(217, 220, 221);
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 0px;
+  position: relative;
+} */
+
